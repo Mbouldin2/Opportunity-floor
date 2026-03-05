@@ -37,8 +37,11 @@ jobs:
 
       - name: Commit and push output files
         run: |
+          run: |
           git config user.name "Opportunity Floor Bot"
           git config user.email "bot@defensesignals.com"
+          git restore --staged .github/workflows/opportunity_floor.yml 2>/dev/null || true
+          git checkout -- .github/workflows/opportunity_floor.yml 2>/dev/null || true
           git add output/opportunity_floor.json \
                   output/daily_email.html \
                   output/daily_email.txt \
