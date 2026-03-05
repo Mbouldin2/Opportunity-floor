@@ -46,7 +46,7 @@ jobs:
                   output/daily_article.md \
                   state.json
           git diff --cached --quiet || git commit -m "Opportunity Floor | $(date +'%m/%d/%y')"
-          git push origin HEAD:main --force
+          git push origin main
 
       - name: Print summary
         run: |
