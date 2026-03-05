@@ -1,4 +1,41 @@
-- name: Commit and push output files
+name: Opportunity Floor — Daily Pipeline
+
+on:
+  schedule:
+    - cron: '0 11 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Opportunity Floor Pipeline
+        env:
+          SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
+          OUTPUT_DIR: ./output
+          STATE_FILE: ./state.json
+          WINDOW_HOURS: '24'
+          MAX_ITEMS: '20'
+          LOG_LEVEL: INFO
+        run: python opportunity_floor_pipeline.py
+
+      - name: Commit and push output files
         run: |
           git config user.name "Opportunity Floor Bot"
           git config user.email "bot@defensesignals.com"
@@ -10,3 +47,16 @@
                   state.json
           git diff --cached --quiet || git commit -m "Opportunity Floor | $(date +'%m/%d/%y')"
           git push origin HEAD:main --force
+
+      - name: Print summary
+        run: |
+          echo "### Opportunity Floor Run Complete" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date +'%m/%d/%Y %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          ITEMS=$(python -c "import json; d=json.load(open('output/opportunity_floor.json')); print(d['summary']['total_published'])" 2>/dev/null || echo "N/A")
+          echo "**Opportunities published:** $ITEMS" >> $GITHUB_STEP_SUMMARY
+
+      - name: Trigger Make.com scenario
+        run: |
+          curl -X POST https://hook.us2.make.com/1ad5tafny7ojvmu89nvwueo5g3s8g8u4 \
+            -H "Content-Type: application/json" \
+            -d '{"event":"opportunity_floor_complete","date":"'"$(date +'%Y-%m-%d')"'"}'
