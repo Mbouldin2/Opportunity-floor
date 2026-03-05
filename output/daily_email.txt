@@ -10,7 +10,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541330 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
    Due: 2026-03-31T11:00:00-04:00 | Sol#: 36C24226R0043
    Fit: ★★★ High Fit
-   Signal: Agency aligned to DHS. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Title signals: repair. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms.
+   Signal: DHS buy in Engineering Services. Scope includes repair. SDVOSB set-aside — restricted competition.
    Link: https://sam.gov/workspace/contract/opp/3acffedc90d24e66a0c8534e1c7e937c/view
 
 2. Logistics and Property Management Support Services
@@ -18,7 +18,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541614 | Set-Aside: Full & Open
    Due: 2026-03-12T11:00:00-04:00 | Sol#: N0018926LPMSS
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Navy. NAICS 541614 (Process, Physical Distribution, and Logistics Consulting) is a core LogiCore/DS lane. Title signals: logistics, ics.
+   Signal: U.S. Navy buy in Process, Physical Distribution, and Logistics Consulting. Scope includes logistics support, industrial control systems.
    Link: https://sam.gov/workspace/contract/opp/b1b8412d65ab49448b89bbcc2281fb54/view
 
 3. Request for Quote for Joseph Maxwell Cleland Atlanta VA Medical Center (JMCAVAMC) Nurse Call System
@@ -26,7 +26,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541512 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
    Due: 2026-03-13T12:00:00-04:00 | Sol#: 36C24726Q0310
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to DHS. NAICS 541512 (Computer Systems Design Services) is a core LogiCore/DS lane. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: DHS buy in Computer Systems Design Services. SDVOSB set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/a1114748f6f34933b9180a823d7397e4/view
 
 4. F-15 FMS Repair and Return Support Services RSAF (Follow-On)
@@ -34,7 +34,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541614 | Set-Aside: No Set aside used
    Due: 2026-04-24T12:00:00-04:00 | Sol#: FA8575-26-R-B002
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Air Force. NAICS 541614 (Process, Physical Distribution, and Logistics Consulting) is a core LogiCore/DS lane. Title signals: repair.
+   Signal: U.S. Air Force buy in Process, Physical Distribution, and Logistics Consulting. Scope includes repair.
    Link: https://sam.gov/workspace/contract/opp/33e018fcc5dd49caa122976e28ae40d8/view
 
 5. Emergency Management Support Services
@@ -42,7 +42,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541330 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-16T02:00:00-06:00 | Sol#: W9127826RA045
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Army. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Army buy in Engineering Services. Small business set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/11cf1a5805ea46fabd6e42a406e4c8df/view
 
 6. Airfield Data Management Server - BPA
@@ -50,7 +50,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541512 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-16T15:00:00-05:00 | Sol#: FA812626Q0023
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Air Force. NAICS 541512 (Computer Systems Design Services) is a core LogiCore/DS lane. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Air Force buy in Computer Systems Design Services. Small business set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view
 
 7. C1NZ--659-26-700 | AE Replace Steam and Condensate Piping |  Salisbury VAMC
@@ -58,7 +58,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541330 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
    Due: 2026-04-06T16:00:00-04:00 | Sol#: 36C24626R0032
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to DHS. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms.
+   Signal: DHS buy in Engineering Services. SDVOSB set-aside — restricted competition.
    Link: https://sam.gov/workspace/contract/opp/c7763e471e5e47e4aec953d2009a8176/view
 
 8. MAJOR REPAIRS BOILER PLANT
@@ -66,7 +66,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 236220 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-17T14:00:00-04:00 | Sol#: 70Z0G126BCGA003NP
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to DHS. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: DHS procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/f7424140ee2140cf9522614524db0009/view
 
 9. Navy Medical Readiness Logistics Command (NMRLC) - Warehouse Support Services  (WSS)
@@ -74,7 +74,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 493110 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
    Due: 2026-03-17T12:00:00-04:00 | Sol#: A027723
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Navy. Title signals: logistics, ics. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Navy procurement. Scope includes logistics support, industrial control systems. SDVOSB set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/f3646b39dcfa480ca125742ef8d506e8/view
 
 10. Defense Injection Reception Emergency Action Message Command and Control Terminal (DIRECT)
@@ -82,7 +82,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541330 | Set-Aside: No Set aside used
    Due: 2026-03-19T16:00:00-04:00 | Sol#: FA8574-27-DIRECT
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Air Force. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Air Force buy in Engineering Services. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/ef594382700e49929cc72c74b5263853/view
 
 11. LANTIRN Sustaining Engineering Services
@@ -90,7 +90,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541330 | Set-Aside: Full & Open
    Due: 2026-03-19T15:00:00-04:00 | Sol#: FA8540-26-R-B002
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Air Force. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Air Force buy in Engineering Services. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/ec4f2f3e648b45349f44f9419deb6c33/view
 
 12. Office Repairs for Hastings, MN
@@ -98,7 +98,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 238310 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-19T15:00:00-05:00 | Sol#: W912ES26QA030
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Army. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Army procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/c4d3d469e92d4a359f00d90a164854ad/view
 
 13. Parking Lot Repair/Sealcoat in Marshfield, WI
@@ -106,7 +106,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 238990 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-13T16:00:00-05:00 | Sol#: 1232SA26Q0205
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to DHS. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: DHS procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/baa2486dcc4c44dda623005b8d34f9fa/view
 
 14. FY26 Leica Cleaning and Calibration
@@ -114,7 +114,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541690 | Set-Aside: Full & Open
    Due: 2026-03-18T15:00:00-04:00 | Sol#: N6449826Q5080
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Navy. NAICS 541690 (Other Scientific and Technical Consulting Services) is a core LogiCore/DS lane. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Navy buy in Other Scientific and Technical Consulting Services. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/b1547f5027804520ae3de3cbe8e0c416/view
 
 15. J065--3A Alert System & Maintenance in support of the Central  Iowa VA Healthcare System
@@ -122,7 +122,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 811210 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
    Due: 2026-03-18T10:00:00-05:00 | Sol#: 36C26326Q0422
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to DHS. Title signals: maintenance. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: DHS procurement. Scope includes maintenance. SDVOSB set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/a3d34c0d3f3f4fb9a7ad09658c807a4d/view
 
 16. Ocean Infrastructure (OI2) Follow-On IDIQ
@@ -130,7 +130,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 541330 | Set-Aside: Full & Open
    Due: 2026-03-20T17:00:00-07:00 | Sol#: N3943026R4002
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Navy. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Navy buy in Engineering Services. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/a2c2718d1bad4d82952114706afa00b9/view
 
 17. PARTS KIT, BRAKE, REPAIR
@@ -138,7 +138,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 336340 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-16T12:00:00-04:00 | Sol#: 70Z08526Q40061B00
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to DHS. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: DHS procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/98c68b4249b942bca051149b6f900a66/view
 
 18. ROOF REPAIRS BUILDINGS HP51, HP53, HP55, HP57, HP255, AND HP265
@@ -146,7 +146,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 238160 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-26T14:00:00-04:00 | Sol#: N4008526R9016
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Navy. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Navy procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/91db27eb8c214d209cd823a6054c374f/view
 
 19. Repair Leaking Domestic Hot-Water and Cold-Water Lines BUILDING 4389
@@ -154,7 +154,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 236220 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-20T13:00:00-04:00 | Sol#: N400857495214
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to U.S. Navy. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: U.S. Navy procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/8e166d5430ac4894affb50685a825ab5/view
 
 20. 41--REPAIR KIT,AIR COND
@@ -162,7 +162,7 @@ NAICS alignment, keyword density, and set-aside preference.
    NAICS: 333415 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-16 | Sol#: SPE8E826T2107
    Fit: ★★ Moderate Fit
-   Signal: Agency aligned to DLA. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7–21 days).
+   Signal: DLA procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
    Link: https://sam.gov/workspace/contract/opp/4d9e2a3403534bbc96ead05561b4050e/view
 
 ────────────────────────────────────────────────────────────

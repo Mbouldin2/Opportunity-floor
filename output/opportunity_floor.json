@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-05T02:06:57Z",
-  "fingerprint": "e4298086",
-  "window_start": "2026-03-04T02:06:57Z",
-  "window_end": "2026-03-05T02:06:57Z",
+  "generated_at": "2026-03-05T02:44:49Z",
+  "fingerprint": "541decd1",
+  "window_start": "2026-03-04T02:44:49Z",
+  "window_end": "2026-03-05T02:44:49Z",
   "filters": {
     "agencies": [
       "U.S. Army",
@@ -54,8 +54,8 @@
     ]
   },
   "summary": {
-    "total_raw": 1259,
-    "total_qualifying": 1259,
+    "total_raw": 1265,
+    "total_qualifying": 1265,
     "total_published": 20
   },
   "items": [
@@ -74,7 +74,7 @@
       "score": 80,
       "score_label": "\u2605\u2605\u2605 High Fit",
       "agency_bucket": "DHS",
-      "why_it_matters": "Agency aligned to DHS. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Title signals: repair. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms."
+      "why_it_matters": "DHS buy in Engineering Services. Scope includes repair. SDVOSB set-aside \u2014 restricted competition."
     },
     {
       "title": "Logistics and Property Management Support Services",
@@ -91,7 +91,7 @@
       "score": 70,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Navy",
-      "why_it_matters": "Agency aligned to U.S. Navy. NAICS 541614 (Process, Physical Distribution, and Logistics Consulting) is a core LogiCore/DS lane. Title signals: logistics, ics."
+      "why_it_matters": "U.S. Navy buy in Process, Physical Distribution, and Logistics Consulting. Scope includes logistics support, industrial control systems."
     },
     {
       "title": "Request for Quote for Joseph Maxwell Cleland Atlanta VA Medical Center (JMCAVAMC) Nurse Call System",
@@ -108,7 +108,7 @@
       "score": 70,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "DHS",
-      "why_it_matters": "Agency aligned to DHS. NAICS 541512 (Computer Systems Design Services) is a core LogiCore/DS lane. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "DHS buy in Computer Systems Design Services. SDVOSB set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "F-15 FMS Repair and Return Support Services RSAF (Follow-On)",
@@ -125,7 +125,7 @@
       "score": 70,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Air Force",
-      "why_it_matters": "Agency aligned to U.S. Air Force. NAICS 541614 (Process, Physical Distribution, and Logistics Consulting) is a core LogiCore/DS lane. Title signals: repair."
+      "why_it_matters": "U.S. Air Force buy in Process, Physical Distribution, and Logistics Consulting. Scope includes repair."
     },
     {
       "title": "Emergency Management Support Services",
@@ -142,7 +142,7 @@
       "score": 70,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Army",
-      "why_it_matters": "Agency aligned to U.S. Army. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Army buy in Engineering Services. Small business set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "Airfield Data Management Server - BPA",
@@ -159,7 +159,7 @@
       "score": 70,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Air Force",
-      "why_it_matters": "Agency aligned to U.S. Air Force. NAICS 541512 (Computer Systems Design Services) is a core LogiCore/DS lane. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Air Force buy in Computer Systems Design Services. Small business set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "C1NZ--659-26-700 | AE Replace Steam and Condensate Piping |  Salisbury VAMC",
@@ -176,7 +176,7 @@
       "score": 65,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "DHS",
-      "why_it_matters": "Agency aligned to DHS. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms."
+      "why_it_matters": "DHS buy in Engineering Services. SDVOSB set-aside \u2014 restricted competition."
     },
     {
       "title": "MAJOR REPAIRS BOILER PLANT",
@@ -193,7 +193,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "DHS",
-      "why_it_matters": "Agency aligned to DHS. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "DHS procurement. Scope includes repair. Small business set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "Navy Medical Readiness Logistics Command (NMRLC) - Warehouse Support Services  (WSS)",
@@ -210,7 +210,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Navy",
-      "why_it_matters": "Agency aligned to U.S. Navy. Title signals: logistics, ics. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Navy procurement. Scope includes logistics support, industrial control systems. SDVOSB set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "Defense Injection Reception Emergency Action Message Command and Control Terminal (DIRECT)",
@@ -227,7 +227,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Air Force",
-      "why_it_matters": "Agency aligned to U.S. Air Force. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Air Force buy in Engineering Services. Decision window: 7\u201321 days."
     },
     {
       "title": "LANTIRN Sustaining Engineering Services",
@@ -244,7 +244,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Air Force",
-      "why_it_matters": "Agency aligned to U.S. Air Force. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Air Force buy in Engineering Services. Decision window: 7\u201321 days."
     },
     {
       "title": "Office Repairs for Hastings, MN",
@@ -261,7 +261,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Army",
-      "why_it_matters": "Agency aligned to U.S. Army. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Army procurement. Scope includes repair. Small business set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "Parking Lot Repair/Sealcoat in Marshfield, WI",
@@ -278,7 +278,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "DHS",
-      "why_it_matters": "Agency aligned to DHS. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "DHS procurement. Scope includes repair. Small business set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "FY26 Leica Cleaning and Calibration",
@@ -295,7 +295,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Navy",
-      "why_it_matters": "Agency aligned to U.S. Navy. NAICS 541690 (Other Scientific and Technical Consulting Services) is a core LogiCore/DS lane. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Navy buy in Other Scientific and Technical Consulting Services. Decision window: 7\u201321 days."
     },
     {
       "title": "J065--3A Alert System & Maintenance in support of the Central  Iowa VA Healthcare System",
@@ -312,7 +312,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "DHS",
-      "why_it_matters": "Agency aligned to DHS. Title signals: maintenance. Set-aside (Service-Disabled Veteran-Owned Small Business Set Aside) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "DHS procurement. Scope includes maintenance. SDVOSB set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "Ocean Infrastructure (OI2) Follow-On IDIQ",
@@ -329,7 +329,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Navy",
-      "why_it_matters": "Agency aligned to U.S. Navy. NAICS 541330 (Engineering Services) is a core LogiCore/DS lane. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Navy buy in Engineering Services. Decision window: 7\u201321 days."
     },
     {
       "title": "PARTS KIT, BRAKE, REPAIR",
@@ -346,7 +346,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "DHS",
-      "why_it_matters": "Agency aligned to DHS. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "DHS procurement. Scope includes repair. Small business set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "ROOF REPAIRS BUILDINGS HP51, HP53, HP55, HP57, HP255, AND HP265",
@@ -363,7 +363,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Navy",
-      "why_it_matters": "Agency aligned to U.S. Navy. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Navy procurement. Scope includes repair. Small business set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "Repair Leaking Domestic Hot-Water and Cold-Water Lines BUILDING 4389",
@@ -380,7 +380,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "U.S. Navy",
-      "why_it_matters": "Agency aligned to U.S. Navy. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "U.S. Navy procurement. Scope includes repair. Small business set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     },
     {
       "title": "41--REPAIR KIT,AIR COND",
@@ -397,7 +397,7 @@
       "score": 60,
       "score_label": "\u2605\u2605 Moderate Fit",
       "agency_bucket": "DLA",
-      "why_it_matters": "Agency aligned to DLA. Title signals: repair. Set-aside (Total Small Business Set-Aside (FAR 19.5)) favors small/woman-owned firms. Response deadline in prime pursuit window (7\u201321 days)."
+      "why_it_matters": "DLA procurement. Scope includes repair. Small business set-aside \u2014 restricted competition. Decision window: 7\u201321 days."
     }
   ]
 }
