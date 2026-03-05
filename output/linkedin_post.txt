@@ -1,10 +1,6 @@
 Federal opportunity activity | 3/5/26
 
-· DHS — Z1DA--NRM-AE 630-26-104 Repair Electrical Deficiencies (NAICS 541330) [Service-Disabled Veteran-Owned Small Business Set Aside]
-· U.S. Navy — Logistics and Property Management Support Services (NAICS 541614)
-· DHS — Request for Quote for Joseph Maxwell Cleland Atlanta VA Medi… (NAICS 541512) [Service-Disabled Veteran-Owned Small Business Set Aside]
-· U.S. Air Force — F-15 FMS Repair and Return Support Services RSAF (Follow-On) (NAICS 541614)
-· U.S. Army — Emergency Management Support Services (NAICS 541330) [Total Small Business Set-Aside (FAR 19.5)]
+
 
 Logistics, engineering, and OT cybersecurity drove the highest-scoring releases. Set-aside concentration in this window signals continued small business runway in these lanes. Signal Room™ — daily scored feed + capture framing.
 
