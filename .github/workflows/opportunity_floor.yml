@@ -30,7 +30,7 @@ jobs:
           SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
           OUTPUT_DIR: ./output
           STATE_FILE: ./state.json
-          WINDOW_HOURS: '24'
+          WINDOW_HOURS: '72'
           MAX_ITEMS: '20'
           LOG_LEVEL: INFO
         run: python opportunity_floor_pipeline.py
