@@ -39,6 +39,8 @@ jobs:
         run: |
           git config user.name "Opportunity Floor Bot"
           git config user.email "bot@defensesignals.com"
+          git fetch origin main
+          git reset --soft origin/main
           git add output/opportunity_floor.json \
                   output/daily_email.html \
                   output/daily_email.txt \
@@ -46,7 +48,7 @@ jobs:
                   output/daily_article.md \
                   state.json
           git diff --cached --quiet || git commit -m "Opportunity Floor | $(date +'%m/%d/%y')"
-          git pull --rebase && git push
+          git push origin main
 
       - name: Print summary
         run: |
