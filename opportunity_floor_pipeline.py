@@ -250,25 +250,57 @@ def score_label(score: int) -> str:
         return "⚠ Review"
 
 def build_why_it_matters(item: Dict[str, Any]) -> str:
+    """Subscriber-facing signal — no internal references."""
     parts = []
     bucket = agency_match(item.get("agency", ""))
-    if bucket:
-        parts.append(f"Agency aligned to {bucket}")
     naics = item.get("naics", "")
-    if naics in TARGET_NAICS:
-        parts.append(f"NAICS {naics} ({TARGET_NAICS[naics]}) is a core LogiCore/DS lane")
+    naics_label = TARGET_NAICS.get(naics, "")
     kws = [kw for kw in KEYWORDS if kw in normalize(item.get("title", ""))]
-    if kws:
-        parts.append(f"Title signals: {', '.join(kws[:3])}")
     sa = item.get("set_aside", "")
-    if set_aside_match(sa):
-        parts.append(f"Set-aside ({sa}) favors small/woman-owned firms")
     rd = item.get("response_date", "")
-    if rd:
-        bonus = response_window_bonus(rd)
-        if bonus > 0:
-            parts.append("Response deadline in prime pursuit window (7–21 days)")
-    return ". ".join(parts) + "." if parts else "Review for mission alignment."
+
+    # Agency + NAICS combined signal
+    if bucket and naics_label:
+        parts.append(f"{bucket} buy in {naics_label}")
+    elif bucket:
+        parts.append(f"{bucket} procurement")
+    elif naics_label:
+        parts.append(f"{naics_label} opportunity")
+
+    # Keyword signals — translate to plain language
+    kw_translations = {
+        "logistics": "logistics support",
+        "sustainment": "sustainment services",
+        "cybersecurity": "cybersecurity scope",
+        "zero trust": "Zero Trust architecture",
+        "scada": "SCADA/ICS environment",
+        "ics": "industrial control systems",
+        "ot": "OT environment",
+        "engineering support": "engineering support services",
+        "technical publications": "technical documentation",
+        "network segmentation": "network segmentation requirement",
+    }
+    translated = [kw_translations.get(kw, kw) for kw in kws[:2]]
+    if translated:
+        parts.append(f"Scope includes {', '.join(translated)}")
+
+    # Set-aside signal
+    if set_aside_match(sa):
+        sa_lower = normalize(sa)
+        if "woman" in sa_lower or "wosb" in sa_lower or "edwosb" in sa_lower:
+            parts.append("WOSB set-aside — restricted competition")
+        elif "8(a)" in sa_lower or "8a" in sa_lower:
+            parts.append("8(a) set-aside — restricted competition")
+        elif "service-disabled" in sa_lower or "sdvosb" in sa_lower:
+            parts.append("SDVOSB set-aside — restricted competition")
+        else:
+            parts.append("Small business set-aside — restricted competition")
+
+    # Response window urgency
+    if rd and response_window_bonus(rd) > 0:
+        parts.append("Decision window: 7–21 days")
+
+    return ". ".join(parts) + "." if parts else "Review for alignment to your capability statement."
 
 # ─────────────────────────────────────────────
 # SAM.GOV API
@@ -645,7 +677,7 @@ def render_article_md(date_label: str, items: List[Dict[str, Any]]) -> str:
 | Set-Aside | {sa} |
 | Due Date | {due} |
 | Sol # | {sol} |
-| Fit Score | {it['score']} — {it['score_label']} |
+| Fit Score | {it['score_label']} |
 | Signal | {it['why_it_matters']} |
 
 [View on SAM.gov]({it['sam_url'] or 'https://sam.gov'})
@@ -660,12 +692,7 @@ def render_article_md(date_label: str, items: List[Dict[str, Any]]) -> str:
 
 ## Today's Signal
 
-**{len(items)} opportunities** posted in the last 24 hours across Army, Navy, DLA, Air Force, and DHS.
-Top agencies by volume: {top_agencies_str or "See below"}.
-{f'Top NAICS by volume: {top_naics_str}.' if top_naics_str else ''}
-**{sa_count} of {len(items)}** carry a small business or WOSB set-aside.
-
-Scoring weights: Agency match (+30), NAICS match (+25), keyword density (+15), set-aside preference (+10), response window 7–21 days (+5).
+The floor moved today. **{len(items)} opportunities** posted across {len(agency_counts)} agencies — **{sa_count} of {len(items)}** carry small business or WOSB set-asides. {top_agencies_str or "Multiple agencies"} drove today's volume. {"**" + str(sum(1 for it in items if response_window_bonus(it.get("response_date", "")) > 0)) + " opportunities close within 21 days** — those move first." if sum(1 for it in items if response_window_bonus(it.get("response_date", "")) > 0) else ""} Review the scored list below and match against your active capability statements.
 
 ---
 
