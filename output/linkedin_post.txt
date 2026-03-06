@@ -1,10 +1,10 @@
-Federal opportunity activity | 3/5/26
+Federal opportunity activity | 3/6/26
 
-· U.S. Army — INFANT SECURITY AND MAINTENANCE SERVICES (NAICS 334290) [Total Small Business Set-Aside (FAR 19.5)]
-· U.S. Navy — 59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF (NAICS ) [Total Small Business Set-Aside (FAR 19.5)]
-· U.S. Navy — MSC SHIP REPAIR VR (NAICS 336611)
-· U.S. Navy — 59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF (NAICS 334412)
-· U.S. Navy — YCV-16 REPAIR, MAINTENANCE, AND PRESERVATION, YOKOSUKA, JAPA… (NAICS 336611)
+· U.S. Navy — Microwave Electronics Systems and Microsystems Engineering S… (NAICS 541330)
+· U.S. Navy — N0016426SNB47 - Professional Support Services NSWC Crane Cod… (NAICS 541330)
+· U.S. Navy — MNCC ICA (NAICS 541330) [Women-Owned Small Business]
+· U.S. Air Force — F-35 Radar Sustainment Support Follow-On (NAICS 541330)
+· U.S. Army — MTNG Architect-Engineer (A-E) Single Award Task Order Contra… (NAICS 541330) [Total Small Business Set-Aside (FAR 19.5)]
 
 Logistics, engineering, and OT cybersecurity drove the highest-scoring releases. Set-aside concentration in this window signals continued small business runway in these lanes. Signal Room™ — daily scored feed + capture framing.
 

@@ -1,155 +1,155 @@
-# The Opportunity Floor™ | 3/5/26
+# The Opportunity Floor™ | 3/6/26
 *Defense Signals™ | Signal Room™ Edition*
 
 ---
 
 ## Today's Signal
 
-The floor moved today. **13 opportunities** posted across 4 agencies — **2 of 13** carry small business or WOSB set-asides. U.S. Navy (10), U.S. Army (1), STATE, DEPARTMENT OF.STATE, DEPARTMENT OF.US EMBASSY COLOMBO (1) drove today's volume. **6 opportunities close within 21 days** — those move first. Review the scored list below and match against your active capability statements.
+The floor moved today. **20 opportunities** posted across 4 agencies — **14 of 20** carry small business or WOSB set-asides. U.S. Navy (7), DHS (7), U.S. Air Force (4) drove today's volume. **13 opportunities close within 21 days** — those move first. Review the scored list below and match against your active capability statements.
 
 ---
 
 ## Top Opportunities
 
-### 1. INFANT SECURITY AND MAINTENANCE SERVICES
+### 1. Microwave Electronics Systems and Microsystems Engineering Support
+
+| Field | Value |
+|-------|-------|
+| Agency | U.S. Navy |
+| NAICS | 541330 – Engineering Services |
+| Set-Aside | Full & Open |
+| Due Date | 2026-03-20T17:00:00-05:00 |
+| Sol # | N0017326REM01 |
+| Fit Score | ★★★ High Fit |
+| Signal | U.S. Navy buy in Engineering Services. Scope includes engineering support services, industrial control systems. Decision window: 7–21 days. |
+
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/3bfc4cf921784eb9b55155cd695a571e/view)
+
+### 2. N0016426SNB47 - Professional Support Services NSWC Crane Code GXW; PSC R425, NAICS 541330
+
+| Field | Value |
+|-------|-------|
+| Agency | U.S. Navy |
+| NAICS | 541330 – Engineering Services |
+| Set-Aside | Full & Open |
+| Due Date | 2026-03-20T14:00:00-04:00 |
+| Sol # | N0016426SNB47 |
+| Fit Score | ★★★ High Fit |
+| Signal | U.S. Navy buy in Engineering Services. Scope includes industrial control systems. Decision window: 7–21 days. |
+
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/cface366c823470e92ddb2c30fda5643/view)
+
+### 3. MNCC ICA
+
+| Field | Value |
+|-------|-------|
+| Agency | U.S. Navy |
+| NAICS | 541330 – Engineering Services |
+| Set-Aside | Women-Owned Small Business |
+| Due Date | 2026-03-19T17:00:00-05:00 |
+| Sol # | N0018926QD001 |
+| Fit Score | ★★ Moderate Fit |
+| Signal | U.S. Navy buy in Engineering Services. Small business set-aside — restricted competition. Decision window: 7–21 days. |
+
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/fe851517a7c3499ca42684138bf79b6a/view)
+
+### 4. F-35 Radar Sustainment Support Follow-On
+
+| Field | Value |
+|-------|-------|
+| Agency | U.S. Air Force |
+| NAICS | 541330 – Engineering Services |
+| Set-Aside | No Set aside used |
+| Due Date | 2026-04-08T16:00:00-04:00 |
+| Sol # | 77670 |
+| Fit Score | ★★ Moderate Fit |
+| Signal | U.S. Air Force buy in Engineering Services. Scope includes sustainment services. |
+
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/ee3e85bc29be40b98babc95aca6c6c2a/view)
+
+### 5. MTNG Architect-Engineer (A-E) Single Award Task Order Contract (SATOC)
 
 | Field | Value |
 |-------|-------|
 | Agency | U.S. Army |
-| NAICS | 334290 –  |
+| NAICS | 541330 – Engineering Services |
 | Set-Aside | Total Small Business Set-Aside (FAR 19.5) |
-| Due Date | 2026-03-16T12:00:00-04:00 |
-| Sol # | W81K0426QA020 |
+| Due Date | 2026-03-16T10:00:00-06:00 |
+| Sol # | W9124V26RA001 |
 | Fit Score | ★★ Moderate Fit |
-| Signal | U.S. Army procurement. Scope includes maintenance. Small business set-aside — restricted competition. Decision window: 7–21 days. |
+| Signal | U.S. Army buy in Engineering Services. Small business set-aside — restricted competition. Decision window: 7–21 days. |
 
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/76e52f807d74454a854de7510721432b/view)
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/d18422900a0f42e2b6c7ecc68f050269/view)
 
-### 2. 59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF
+### 6. BUMED N6 Communication and Information Systems Support
 
 | Field | Value |
 |-------|-------|
 | Agency | U.S. Navy |
-| NAICS | N/A –  |
+| NAICS | 541330 – Engineering Services |
+| Set-Aside | Service-Disabled Veteran-Owned Small Business Set Aside |
+| Due Date | 2026-03-18T12:00:00-04:00 |
+| Sol # | N0018926QB023 |
+| Fit Score | ★★ Moderate Fit |
+| Signal | U.S. Navy buy in Engineering Services. SDVOSB set-aside — restricted competition. Decision window: 7–21 days. |
+
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/ba1c700edf404bbf8d2c622775165d32/view)
+
+### 7. Bridge Inspection and Assessment - Prescott NF
+
+| Field | Value |
+|-------|-------|
+| Agency | DHS |
+| NAICS | 541330 – Engineering Services |
 | Set-Aside | Total Small Business Set-Aside (FAR 19.5) |
-| Due Date | 2026-03-13T16:30:00-04:00 |
-| Sol # | N0010425QDE12 |
+| Due Date | 2026-03-27T13:00:00-07:00 |
+| Sol # | 127EAX26Q0013 |
 | Fit Score | ★★ Moderate Fit |
-| Signal | U.S. Navy procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days. |
+| Signal | DHS buy in Engineering Services. Small business set-aside — restricted competition. Decision window: 7–21 days. |
 
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/13d1ce88a91a41a89efcfd993e8eaea0/view)
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/aec4cb45db8347b1a61050fb36b93188/view)
 
-### 3. MSC SHIP REPAIR VR
+### 8. A&E Industrial District Plan
 
 | Field | Value |
 |-------|-------|
-| Agency | U.S. Navy |
-| NAICS | 336611 –  |
-| Set-Aside | Full & Open |
-| Due Date | 2026-03-20T09:00:00+01:00 |
-| Sol # | N6817126QN020 |
+| Agency | U.S. Air Force |
+| NAICS | 541330 – Engineering Services |
+| Set-Aside | Total Small Business Set-Aside (FAR 19.5) |
+| Due Date | 2026-03-20T13:00:00-08:00 |
+| Sol # | FTQW261200 |
 | Fit Score | ★★ Moderate Fit |
-| Signal | U.S. Navy procurement. Scope includes repair. Decision window: 7–21 days. |
+| Signal | U.S. Air Force buy in Engineering Services. Small business set-aside — restricted competition. Decision window: 7–21 days. |
 
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/7d9cb9e96767490f9bef8edcaa651262/view)
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/90b9275dc5144fb6aca8d37b9fbadc02/view)
 
-### 4. 59--CIRCUIT CARD ASSEMB, IN REPAIR/MODIFICATION OF
+### 9. Engineering Support Services - Commercial Derivative Aircraft
 
 | Field | Value |
 |-------|-------|
-| Agency | U.S. Navy |
-| NAICS | 334412 –  |
-| Set-Aside | Full & Open |
-| Due Date | 2026-03-13T16:30:00-04:00 |
-| Sol # | N0010425QDE12 |
+| Agency | U.S. Air Force |
+| NAICS | 541330 – Engineering Services |
+| Set-Aside | No Set aside used |
+| Due Date | 2026-05-18T12:00:00-05:00 |
+| Sol # | FA813426RB001 |
 | Fit Score | ★★ Moderate Fit |
-| Signal | U.S. Navy procurement. Scope includes repair. Decision window: 7–21 days. |
+| Signal | U.S. Air Force buy in Engineering Services. Scope includes engineering support services. |
 
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/4bf02952a41c4f058bb0fd6f93f6ea20/view)
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/60c1ae1745ee4287b7790be74dabc238/view)
 
-### 5. YCV-16 REPAIR, MAINTENANCE, AND PRESERVATION, YOKOSUKA, JAPAN
+### 10. Notice of intent to sole source Access Control Panel Replacement -  Police Service
 
 | Field | Value |
 |-------|-------|
-| Agency | U.S. Navy |
-| NAICS | 336611 –  |
-| Set-Aside | Full & Open |
-| Due Date | 2026-03-27T10:00:00+09:00 |
-| Sol # | N6264926RA031 |
+| Agency | DHS |
+| NAICS | 541519 – Other Computer Related Services |
+| Set-Aside | SDVOSB Sole Source |
+| Due Date | 2026-03-20T10:00:00-04:00 |
+| Sol # | 36C24926Q0137 |
 | Fit Score | ★★ Moderate Fit |
-| Signal | U.S. Navy procurement. Scope includes maintenance, repair. Decision window: 7–21 days. |
+| Signal | DHS buy in Other Computer Related Services. SDVOSB set-aside — restricted competition. Decision window: 7–21 days. |
 
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/210b5b7de8154b1f8e0996a804f45a93/view)
-
-### 6. 30--ACTUATOR,JBD, IN REPAIR/MODIFICATION OF
-
-| Field | Value |
-|-------|-------|
-| Agency | U.S. Navy |
-| NAICS | 333612 –  |
-| Set-Aside | Full & Open |
-| Due Date | 2026-04-06T16:00:00-04:00 |
-| Sol # | N0010426RTA82 |
-| Fit Score | ★ Low Fit |
-| Signal | U.S. Navy procurement. Scope includes repair. |
-
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/c5fa473af7ff46f2877ddd979951edfc/view)
-
-### 7. 59--CIRCUIT CARD ASSEMB - AND OTHER REPLACEMENT PARTS, IN REPAIR/MODIFICATION OF
-
-| Field | Value |
-|-------|-------|
-| Agency | U.S. Navy |
-| NAICS | N/A –  |
-| Set-Aside | Full & Open |
-| Due Date | 2026-03-05T16:30:00-04:00 |
-| Sol # | N0010425QDD97 |
-| Fit Score | ★ Low Fit |
-| Signal | U.S. Navy procurement. Scope includes repair. |
-
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/c4285f8d6a0545b3b1eb97a399454ca0/view)
-
-### 8. 59--CIRCUIT CARD ASSEMB - AND OTHER REPLACEMENT PARTS, IN REPAIR/MODIFICATION OF
-
-| Field | Value |
-|-------|-------|
-| Agency | U.S. Navy |
-| NAICS | 334412 –  |
-| Set-Aside | Full & Open |
-| Due Date | 2026-03-05T16:30:00-04:00 |
-| Sol # | N0010425QDD97 |
-| Fit Score | ★ Low Fit |
-| Signal | U.S. Navy procurement. Scope includes repair. |
-
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/98d1f5dbb45f4afaa22105065fb14c02/view)
-
-### 9. 61--WPN PWR CONVERTER, IN REPAIR/MODIFICATION OF
-
-| Field | Value |
-|-------|-------|
-| Agency | U.S. Navy |
-| NAICS | 335931 –  |
-| Set-Aside | Full & Open |
-| Due Date | 2026-04-06T16:30:00-04:00 |
-| Sol # | N0010426QNB82 |
-| Fit Score | ★ Low Fit |
-| Signal | U.S. Navy procurement. Scope includes repair. |
-
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/77818fdd2edb4742887cd1e455b4fe79/view)
-
-### 10. 70--COMPUTER,DIGITAL, IN REPAIR/MODIFICATION OF
-
-| Field | Value |
-|-------|-------|
-| Agency | U.S. Navy |
-| NAICS | 334111 –  |
-| Set-Aside | Full & Open |
-| Due Date | 2026-04-06T16:30:00-04:00 |
-| Sol # | N0010426QNB51 |
-| Fit Score | ★ Low Fit |
-| Signal | U.S. Navy procurement. Scope includes repair. |
-
-[View on SAM.gov](https://sam.gov/workspace/contract/opp/65adcdf452fe4eea9cf00e245cedb632/view)
+[View on SAM.gov](https://sam.gov/workspace/contract/opp/2169594fe23042809290a7c970e53808/view)
 
 
 ---
@@ -172,4 +172,4 @@ Signal Room™ members receive full scoring breakdowns, incumbent intelligence, 
 [Join Signal Room™ →](https://defensesignals.com/signal-room)
 
 ---
-*Generated by Defense Signals™ Opportunity Floor Pipeline · 2026-03-05T12:00:36Z*
+*Generated by Defense Signals™ Opportunity Floor Pipeline · 2026-03-06T11:54:35Z*
