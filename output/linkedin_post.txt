@@ -1,10 +1,10 @@
-Federal opportunity activity | 3/11/26
+Federal opportunity activity | 3/12/26
 
-· U.S. Navy — Pilot and Aircrew Curriculum Revision and Maintenance (PACRM… (NAICS 541330) [Service-Disabled Veteran-Owned Small Business Set Aside]
-· U.S. Air Force — Sources Sought Synopsis: For Joint Tactical Ground Station (… (NAICS 541330)
-· DHS — H265--Water Testing (NAICS 541690) [Service-Disabled Veteran-Owned Small Business Set Aside]
-· DHS — Medical Physicist Services (NAICS 541690) [Service-Disabled Veteran-Owned Small Business Set Aside]
-· U.S. Army — ASOG Complex EMCS Camp Murray, WA (NAICS 541512) [Total Small Business Set-Aside (FAR 19.5)]
+· U.S. Navy — Naval Enterprise Networks (NEN) and Integrated Product Team … (NAICS 541330)
+· U.S. Navy — Code 70 Business Services Seaport Task Order Solicitation (NAICS 541330) [Service-Disabled Veteran-Owned Small Business Set Aside]
+· U.S. Navy — R425 - Admiral Gooding Center Events and Information Technol… (NAICS 541330) [Women-Owned Small Business]
+· U.S. Navy — NAWCAD (WOLF) Ship and Air Integrated Warfare Division Small… (NAICS 541330) [Total Small Business Set-Aside (FAR 19.5)]
+· U.S. Navy — Information Warfare Analytical Operational Test and Evaluati… (NAICS 541330) [Service-Disabled Veteran-Owned Small Business Set Aside]
 
 Logistics, engineering, and OT cybersecurity drove the highest-scoring releases. Set-aside concentration in this window signals continued small business runway in these lanes. Signal Room™ — daily scored feed + capture framing.
 

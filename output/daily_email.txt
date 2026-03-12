@@ -1,169 +1,169 @@
 DEFENSE SIGNALS™ | THE OPPORTUNITY FLOOR
-Recently Released RFPs | 3/11/26
+Recently Released RFPs | 3/12/26
 ============================================================
 
 Opportunities posted in the last 24 hours. Scored by agency fit,
 NAICS alignment, keyword density, and set-aside preference.
 
-1. Pilot and Aircrew Curriculum Revision and Maintenance (PACRM) Multiple Award Contract (MAC) II
+1. Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management
+   Agency: U.S. Navy
+   NAICS: 541330 | Set-Aside: Full & Open
+   Due: 2026-03-23T15:00:00-07:00 | Sol#: N66001-26-R-3503
+   Fit: ★★★ High Fit
+   Signal: U.S. Navy buy in Engineering Services. Scope includes program management. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/77e1213c78f64b5e8f93e216afc03a14/view
+
+2. Code 70 Business Services Seaport Task Order Solicitation
    Agency: U.S. Navy
    NAICS: 541330 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
-   Due: 2026-09-08T10:00:00-05:00 | Sol#: N6134026R1001
-   Fit: ★★★ High Fit
-   Signal: U.S. Navy buy in Engineering Services. Scope includes maintenance. SDVOSB set-aside — restricted competition.
-   Link: https://sam.gov/workspace/contract/opp/270f99f624ff47a09185b3b66408fa05/view
+   Due: 2026-03-31T14:00:00-04:00 | Sol#: N6660426R3005
+   Fit: ★★ Moderate Fit
+   Signal: U.S. Navy buy in Engineering Services. SDVOSB set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/f2614c19948948ceb9e3792bf635ce14/view
 
-2. Sources Sought Synopsis: For Joint Tactical Ground Station (JTAGS) Contractor Logistics Support (CLS) and Engineering Services (ES)
+3. R425 - Admiral Gooding Center Events and Information Technology Support Services
+   Agency: U.S. Navy
+   NAICS: 541330 | Set-Aside: Women-Owned Small Business
+   Due: 2026-04-03T10:00:00-04:00 | Sol#: N0018926R3102
+   Fit: ★★ Moderate Fit
+   Signal: U.S. Navy buy in Engineering Services. Small business set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/afdc92c427e242adace4bbe6d830c543/view
+
+4. NAWCAD (WOLF) Ship and Air Integrated Warfare Division Small Unmanned Aircraft Systems (SUAS) Reusable Architecture (SRA)
+   Agency: U.S. Navy
+   NAICS: 541330 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
+   Due: 2026-04-01T10:00:00-04:00 | Sol#: N0042126R1006
+   Fit: ★★ Moderate Fit
+   Signal: U.S. Navy buy in Engineering Services. Small business set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/9de040ad094545139127b91a2c14e5cb/view
+
+5. Information Warfare Analytical Operational Test and Evaluation Support Services
+   Agency: U.S. Navy
+   NAICS: 541330 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
+   Due: 2026-04-01T10:00:00-04:00 | Sol#: N0018926RW005
+   Fit: ★★ Moderate Fit
+   Signal: U.S. Navy buy in Engineering Services. SDVOSB set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/8ff7a58bbd7d49b0ab56e4e801cd778a/view
+
+6. Bridge Inspection and Assessment - Prescott NF
+   Agency: DHS
+   NAICS: 541330 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
+   Due: 2026-03-27T13:00:00-07:00 | Sol#: 127EAX26Q0013
+   Fit: ★★ Moderate Fit
+   Signal: DHS buy in Engineering Services. Small business set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/8624911f67d64eef810fa21052eef448/view
+
+7. C--WY BRIDGE INSPECTIONS
+   Agency: DHS
+   NAICS: 541330 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
+   Due: 2026-03-26T11:00:00-05:00 | Sol#: 140R6026Q0042
+   Fit: ★★ Moderate Fit
+   Signal: DHS buy in Engineering Services. Small business set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/5f562c21f2cc42518b3ccb15ee6ea091/view
+
+8. DG10--RFI to SAM.gov -- Medialab Maint. Of Cert & Reg Compliance  Software.
+   Agency: DHS
+   NAICS: 541519 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
+   Due: 2026-03-27T12:00:00-04:00 | Sol#: 36C24126Q0329
+   Fit: ★★ Moderate Fit
+   Signal: DHS buy in Other Computer Related Services. Small business set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/5b17357dc69943ef9e39e37b800b39a7/view
+
+9. Expeditionary Warfare Analytical Operational Test and Evaluation Support Services
+   Agency: U.S. Navy
+   NAICS: 541330 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
+   Due: 2026-03-27T10:00:00-04:00 | Sol#: N0018926RW0004
+   Fit: ★★ Moderate Fit
+   Signal: U.S. Navy buy in Engineering Services. SDVOSB set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/38c0b3dc161c4ecf92b0b08105ed0239/view
+
+10. R425 - Aviation Warfare Analytical Operational Test and Evaluation Support Services
+   Agency: U.S. Navy
+   NAICS: 541330 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
+   Due: 2026-03-18T00:00:00-04:00 | Sol#: N0018926RW014
+   Fit: ★★ Moderate Fit
+   Signal: U.S. Navy buy in Engineering Services. SDVOSB set-aside — restricted competition.
+   Link: https://sam.gov/workspace/contract/opp/f8ef86661fc845448382bd822a61f927/view
+
+11. Envitia Software Renewal
    Agency: U.S. Air Force
-   NAICS: 541330 | Set-Aside: Full & Open
-   Due: 2026-03-25T16:00:00-06:00 | Sol#: FA8815-26-R-0002
-   Fit: ★★★ High Fit
-   Signal: U.S. Air Force buy in Engineering Services. Scope includes logistics support, industrial control systems. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/fb7643d38c2249c586e114fd938068db/view
-
-3. H265--Water Testing
-   Agency: DHS
-   NAICS: 541690 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
-   Due: 2026-03-20T16:00:00-04:00 | Sol#: 36C24826R0069
+   NAICS: 541519 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
+   Due: 2026-03-16T15:00:00-04:00 | Sol#: FD2399-2600117
    Fit: ★★ Moderate Fit
-   Signal: DHS buy in Other Scientific and Technical Consulting Services. SDVOSB set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/db08a5bd703e4329a8cf4e4ddba62fb1/view
+   Signal: U.S. Air Force buy in Other Computer Related Services. Small business set-aside — restricted competition.
+   Link: https://sam.gov/workspace/contract/opp/c18853122a234b88ad7c30b28fcf6606/view
 
-4. Medical Physicist Services
+12. C211--589A6-26-415, Install Heating, Ventilation, and Air  Conditioning System (HVAC) System Building 71- ME  (VA-26-00040372)
    Agency: DHS
-   NAICS: 541690 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
-   Due: 2026-03-18T12:00:00-05:00 | Sol#: 36C25626Q0487
+   NAICS: 541330 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
+   Due: 2026-03-16T10:00:00-05:00 | Sol#: 36C25526Q0251
    Fit: ★★ Moderate Fit
-   Signal: DHS buy in Other Scientific and Technical Consulting Services. SDVOSB set-aside — restricted competition.
-   Link: https://sam.gov/workspace/contract/opp/82f22c5c43e04cd8accb11934ea3910e/view
+   Signal: DHS buy in Engineering Services. SDVOSB set-aside — restricted competition.
+   Link: https://sam.gov/workspace/contract/opp/be99425e51974e00bbf8bef68a891ad8/view
 
-5. ASOG Complex EMCS Camp Murray, WA
+13. A&E Industrial District Plan
+   Agency: U.S. Air Force
+   NAICS: 541330 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
+   Due: 2026-04-10T13:00:00-08:00 | Sol#: 261200
+   Fit: ★★ Moderate Fit
+   Signal: U.S. Air Force buy in Engineering Services. Small business set-aside — restricted competition.
+   Link: https://sam.gov/workspace/contract/opp/81115a2634b749898a5cd2ecb110a167/view
+
+14. ASOG Complex EMCS Camp Murray, WA
    Agency: U.S. Army
    NAICS: 541512 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
    Due: 2026-03-18T12:00:00-07:00 | Sol#: W50S9E26QA001
    Fit: ★★ Moderate Fit
    Signal: U.S. Army buy in Computer Systems Design Services. Small business set-aside — restricted competition.
-   Link: https://sam.gov/workspace/contract/opp/7efa7d651a624b438873927a99077d52/view
+   Link: https://sam.gov/workspace/contract/opp/428dc372d3bd45bebf40e8aff334f725/view
 
-6. FY26 Invenio Production and Test/Dev Licenses Renewal
+15. C1DZ--620-27-103 Replace Building 16 Roof PH1
    Agency: DHS
-   NAICS: 541512 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-17T13:00:00-05:00 | Sol#: 80NSSC26927366Q
-   Fit: ★★ Moderate Fit
-   Signal: DHS buy in Computer Systems Design Services. Small business set-aside — restricted competition.
-   Link: https://sam.gov/workspace/contract/opp/30e19e4534634216acb12e5ed48190aa/view
-
-7. Advance Notice: N6660426R3102: NUWCDIVNPT Code 107 PAS Services
-   Agency: U.S. Navy
    NAICS: 541330 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
-   Due: 2026-03-18T14:00:00-04:00 | Sol#: N6660426R3102
+   Due: 2026-04-10T17:00:00-04:00 | Sol#: 36C24226Q0430
    Fit: ★★ Moderate Fit
-   Signal: U.S. Navy buy in Engineering Services. SDVOSB set-aside — restricted competition.
-   Link: https://sam.gov/workspace/contract/opp/2469746f04c641ac8cb556de864bcd54/view
+   Signal: DHS buy in Engineering Services. SDVOSB set-aside — restricted competition.
+   Link: https://sam.gov/workspace/contract/opp/1c633476bf33404cae3661eff02ce2c9/view
 
-8. Repair Waterfront – Phase 2 at USCG Station Portsmouth Harbor (New Castle, New Hampshire)
-   Agency: DHS
-   NAICS: 237990 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-26T16:00:00-04:00 | Sol#: 70Z0G126BSNNE8241
-   Fit: ★★ Moderate Fit
-   Signal: DHS procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/c1e077b293f940c6a4dff38a7d7f2bb2/view
-
-9. Z--Building 1916-T2 Drainage Repair and Paving
-   Agency: DHS
-   NAICS: 237310 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-23T12:00:00-04:00 | Sol#: 89243126RSC000170
-   Fit: ★★ Moderate Fit
-   Signal: DHS procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/b6aee10ac54a4dc6ad7e00ba8606ad54/view
-
-10. J091--Annual Fuel Maintenance Program
-   Agency: DHS
-   NAICS: 811310 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-20T17:00:00-04:00 | Sol#: 36C24126Q0320
-   Fit: ★★ Moderate Fit
-   Signal: DHS procurement. Scope includes maintenance. Small business set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/a9267bd80c744d0a8ed08e5bb80e9a9e/view
-
-11. FY26 UAWC Trellix Software License Renewal
-   Agency: U.S. Air Force
-   NAICS: 541519 | Set-Aside: No Set aside used
-   Due: 2026-03-20T10:00:00-04:00 | Sol#: FA561326Q0016
-   Fit: ★★ Moderate Fit
-   Signal: U.S. Air Force buy in Other Computer Related Services. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/a3e7c5e97cbb4c20a4ecc55b2142c287/view
-
-12. SP-POL-PPS-Fueling System Repairs-Lambert Field
-   Agency: U.S. Army
-   NAICS: 237120 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-30T11:00:00-06:00 | Sol#: 575198
-   Fit: ★★ Moderate Fit
-   Signal: U.S. Army procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/96cf9a1bb5144623936151e71af0c399/view
-
-13. EC - LMDT HVAC Maintenance
-   Agency: DHS
-   NAICS: 561210 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-31T15:00:00-06:00 | Sol#: 140R6026Q0040
-   Fit: ★★ Moderate Fit
-   Signal: DHS procurement. Scope includes maintenance. Small business set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/893525d9ce514ed596306e758bcc3f85/view
-
-14. Roof Repairs Buildings BB260, BB265, & BB270
+16. 59--AN/BPS-16 RADAR MAS, IN REPAIR/MODIFICATION OF
    Agency: U.S. Navy
-   NAICS: 238160 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-27T14:00:00-04:00 | Sol#: N4008526R9015
+   NAICS: N/A | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
+   Due: 2026-03-27T16:30:00-04:00 | Sol#: N0010425QND47
    Fit: ★★ Moderate Fit
    Signal: U.S. Navy procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/82e6976a80e34fb0846c099c84ba0a84/view
+   Link: https://sam.gov/workspace/contract/opp/6f925cb83c7d455fbefe030b84e12cf0/view
 
-15. Lighting Inverters Repair and Reprogramming
-   Agency: U.S. Air Force
-   NAICS: 238210 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-25T12:00:00-06:00 | Sol#: FA251726Q0006
+17. 49--MAINTENANCE KIT,VEH
+   Agency: DLA
+   NAICS: 336992 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
+   Due: 2026-03-23 | Sol#: SPE7L526T2416
    Fit: ★★ Moderate Fit
-   Signal: U.S. Air Force procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/80d231cd7b694f27b279da10a07342e5/view
+   Signal: DLA procurement. Scope includes maintenance. Small business set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/533b530fdb60415798b062b60aecac50/view
 
-16. Sources Sought - Aviation Rapid Action Team (ARAT)
+18. 43--REPAIR KIT,SEAL,SPL
+   Agency: DLA
+   NAICS: 336413 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
+   Due: 2026-03-23 | Sol#: SPE7M126T7167
+   Fit: ★★ Moderate Fit
+   Signal: DLA procurement. Scope includes repair. SDVOSB set-aside — restricted competition. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/21213992572f4c62adeb40141b12c95c/view
+
+19. ELECTROMAGNETIC WARFARE (EW) FLEET SUPPORT TEAM (FST) SERVICES
    Agency: U.S. Navy
    NAICS: 541330 | Set-Aside: No Set aside used
-   Due: 2026-03-25T14:00:00-04:00 | Sol#: N68520-26-RFPREQ-F000000-0029
+   Due: 2026-03-23T14:00:00-04:00 | Sol#: N0016426R3105
    Fit: ★★ Moderate Fit
    Signal: U.S. Navy buy in Engineering Services. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/69df020c84e04ad6ba32fb1b2c57212a/view
+   Link: https://sam.gov/workspace/contract/opp/dbaa67e7211e4ed3a70edef0096a2d0c/view
 
-17. VTE/Elevator Maintenance & Repair Service
-   Agency: U.S. Air Force
-   NAICS: 238290 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-23T16:00:00-04:00 | Sol#: FA480026Q0039
-   Fit: ★★ Moderate Fit
-   Signal: U.S. Air Force procurement. Scope includes maintenance, repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/520c0ec801294e0997cef0631d9e24ee/view
-
-18. ROOF REPAIRS BUILDINGS HP51, HP53, HP55, HP57, HP255, AND HP265
-   Agency: U.S. Navy
-   NAICS: 238160 | Set-Aside: Total Small Business Set-Aside (FAR 19.5)
-   Due: 2026-03-26T14:00:00-04:00 | Sol#: N4008526R9016
-   Fit: ★★ Moderate Fit
-   Signal: U.S. Navy procurement. Scope includes repair. Small business set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/3f31573c9ae942cb9b9f53b4d1005148/view
-
-19. F-15E Radar Modernization Program (RMP) Non-Radar Depot Activation - F-15E/EX Primary Pressure Regulator and Shutoff Valve (PPRSV) PN 3215986-1-1
-   Agency: U.S. Air Force
-   NAICS: 541330 | Set-Aside: No Set aside used
-   Due: 2026-03-20T16:00:00-04:00 | Sol#: PCOL-26-1-FA8634
-   Fit: ★★ Moderate Fit
-   Signal: U.S. Air Force buy in Engineering Services. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/3cdcfc035a034b65811371b1d300d02a/view
-
-20. 561A4-22-108 Repair Underground Stormwater Sewage System
+20. CA-SACRAMENTO NWR HQ RETRO-COMMISSIONING
    Agency: DHS
-   NAICS: 237110 | Set-Aside: Service-Disabled Veteran-Owned Small Business Set Aside
-   Due: 2026-03-24T10:45:00-04:00 | Sol#: 36C24226B0031
+   NAICS: 541330 | Set-Aside: Full & Open
+   Due: 2026-03-26T13:00:00-05:00 | Sol#: 140FS126Q0050
    Fit: ★★ Moderate Fit
-   Signal: DHS procurement. Scope includes repair. SDVOSB set-aside — restricted competition. Decision window: 7–21 days.
-   Link: https://sam.gov/workspace/contract/opp/3486867937cf485bae28f0a643f57d10/view
+   Signal: DHS buy in Engineering Services. Decision window: 7–21 days.
+   Link: https://sam.gov/workspace/contract/opp/cfe45bc182f7482c8ab0b2b6364ec505/view
 
 ────────────────────────────────────────────────────────────
 Want a 48-hour capture action plan on any of these?
