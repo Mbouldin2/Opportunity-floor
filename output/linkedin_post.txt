@@ -1,10 +1,10 @@
-Federal opportunity activity | 3/12/26
+Federal opportunity activity | 3/13/26
 
-· U.S. Navy — Naval Enterprise Networks (NEN) and Integrated Product Team … (NAICS 541330)
-· U.S. Navy — Code 70 Business Services Seaport Task Order Solicitation (NAICS 541330) [Service-Disabled Veteran-Owned Small Business Set Aside]
-· U.S. Navy — R425 - Admiral Gooding Center Events and Information Technol… (NAICS 541330) [Women-Owned Small Business]
-· U.S. Navy — NAWCAD (WOLF) Ship and Air Integrated Warfare Division Small… (NAICS 541330) [Total Small Business Set-Aside (FAR 19.5)]
-· U.S. Navy — Information Warfare Analytical Operational Test and Evaluati… (NAICS 541330) [Service-Disabled Veteran-Owned Small Business Set Aside]
+· U.S. Navy — Naval Enterprise Networks (NEN) and Integrated Product Team … (NAICS 541330) [Total Small Business Set-Aside (FAR 19.5)]
+· U.S. Air Force — MAHG181094CR Repair Runway Charrette, Keesler AFB, MS (NAICS 541330) [Total Small Business Set-Aside (FAR 19.5)]
+· U.S. Navy — Undersea Warfare Analytical Operational Test and Evaluation … (NAICS 541330) [Service-Disabled Veteran-Owned Small Business Set Aside]
+· U.S. Army — Threat Systems Operations and Maintenance Support Services (… (NAICS 541330)
+· U.S. Army — The Radford Army Ammunition Plant (RFAAP) Modernized Pre-Mix… (NAICS 541330) [Total Small Business Set-Aside (FAR 19.5)]
 
 Logistics, engineering, and OT cybersecurity drove the highest-scoring releases. Set-aside concentration in this window signals continued small business runway in these lanes. Signal Room™ — daily scored feed + capture framing.
 
